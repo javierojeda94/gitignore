@@ -1,2 +1,9 @@
 node_modules
 npm-debug.log
+logs
+project/project
+project/target
+target
+tmp
+dist
+.cache
